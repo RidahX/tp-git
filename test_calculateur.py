@@ -1,3 +1,6 @@
-from calculatrice import addition
-def test_addition():
-    assert addition(1, 2) == 3
+from calculatrice import division
+
+
+
+def test_divison():
+    assert division(6, 2) == 3
