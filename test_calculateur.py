@@ -1,6 +1,6 @@
-from calculator import substraction
+from calculator import soustraction
 
 
 
-def test_substraction():
-    assert substraction(2, 1) == 1
+def test_soustraction():
+    assert soustraction(2, 1) == 1
