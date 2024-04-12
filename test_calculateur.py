@@ -1,6 +1,6 @@
-from calculatrice import division
+from calculator import soustraction
 
 
 
-def test_divison():
-    assert division(6, 2) == 3
+def test_soustraction():
+    assert soustraction(2, 1) == 1
